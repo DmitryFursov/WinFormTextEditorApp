@@ -5,6 +5,8 @@ VisualStudioVersion = 16.0.29215.179
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WinFormTextEditorApp", "WinFormTextEditorApp\WinFormTextEditorApp.csproj", "{AF9C7077-D24F-4EF1-82C6-5FD7CEB15317}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataBaseHandler", "DataBaseHandler\DataBaseHandler.csproj", "{11C7E4C0-F192-4E10-B101-B72FBE88567B}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{AF9C7077-D24F-4EF1-82C6-5FD7CEB15317}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{AF9C7077-D24F-4EF1-82C6-5FD7CEB15317}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{AF9C7077-D24F-4EF1-82C6-5FD7CEB15317}.Release|Any CPU.Build.0 = Release|Any CPU
+		{11C7E4C0-F192-4E10-B101-B72FBE88567B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{11C7E4C0-F192-4E10-B101-B72FBE88567B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{11C7E4C0-F192-4E10-B101-B72FBE88567B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{11C7E4C0-F192-4E10-B101-B72FBE88567B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
