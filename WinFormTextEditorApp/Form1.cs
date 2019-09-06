@@ -16,5 +16,35 @@ namespace WinFormTextEditorApp
         {
             InitializeComponent();
         }
+
+        private void CreateToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void AddToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void EditToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+
+        }        
+
+        private void RemoveToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void ToDiskToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void ToDbToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+
+        }
     }
 }
